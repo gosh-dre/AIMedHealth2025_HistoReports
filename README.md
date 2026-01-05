@@ -1,6 +1,8 @@
 
 # Minimal Data Maximum Impact: Lessons Learned from Real-World Unstructured Data in Paediatric Care
 
+**PLEASE NOTE:** This repository is not in active development and its requirements are not checked for vulnerabilities.  
+
 ## 🚀 Introduction
 
 This package contains the source code for our end to end diagnosis identification pipeline. The below diagram encapsulates how various components of the pipeline interact with each other.
